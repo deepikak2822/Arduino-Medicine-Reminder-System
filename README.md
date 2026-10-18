@@ -81,13 +81,17 @@ Connect grounds appropriately and provide suitable power to each module. Use app
 
 ### Complete Hardware Setup
 
-![Complete Medicine Reminder System](images/complete-setup.jpeg)
+![Complete Medicine Reminder System](complete-setup.jpeg)
 
 ### LCD Display
 
-![Medicine Reminder System Display](images/display.jpeg)
+![Medicine Reminder System Display](display.jpeg)
 
 ## 🎥 Working Demo
 
-Watch the `working-demo.mp4` video included in this repository to see the project in operation.
+[View the working-demo.mp4 video](working-demo.mp4)
+
+The demonstration shows the project hardware and its medicine reminder operation.
+![Medicine Reminder System Display](images/display.jpeg)
+
 
