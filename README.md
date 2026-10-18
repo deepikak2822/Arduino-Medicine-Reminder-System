@@ -89,9 +89,6 @@ Connect grounds appropriately and provide suitable power to each module. Use app
 
 ## 🎥 Working Demo
 
-[View the working-demo.mp4 video](working-demo.mp4)
+Watch the project demonstration below.
 
-The demonstration shows the project hardware and its medicine reminder operation.
-![Medicine Reminder System Display](images/display.jpeg)
-
-
+https://github.com/deepikak2822/Arduino-Medicine-Reminder-System/blob/main/working-demo.mp4
