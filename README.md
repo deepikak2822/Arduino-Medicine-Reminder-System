@@ -77,5 +77,17 @@ Connect grounds appropriately and provide suitable power to each module. Use app
 
 ## 🎥 Demonstration
 
-Project photographs and a demonstration video will be added to this repository.
+## 📸 Project Gallery
+
+### Complete Hardware Setup
+
+![Complete Medicine Reminder System](images/complete-setup.jpeg)
+
+### LCD Display
+
+![Medicine Reminder System Display](images/display.jpeg)
+
+## 🎥 Working Demo
+
+Watch the `working-demo.mp4` video included in this repository to see the project in operation.
 
